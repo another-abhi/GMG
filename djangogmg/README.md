@@ -1,0 +1,2 @@
+# djangogmg
+# Atendance dashboard project.
